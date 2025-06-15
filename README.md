@@ -1,88 +1,25 @@
-# Project Name
-> 
+# Tic Tac Toe
+> Rozgrywka dla dwóch graczy grających w tym samym momencie, program pozwala na naprzemienne zaznaczanie pól, później w przypadku wygranej, bądź remisu, przedstawia odpowiednie wyskakujące okienko i dodaje punkty do tabeli z wynikami, resetując przy tym rundę. Jest też przycisk „Reset”, który resetuje tabelę z wynikami.
 
-## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Features](#features)
-* [Screenshots](#screenshots)
-* [Setup](#setup)
-* [Usage](#usage)
-* [Project Status](#project-status)
-* [Room for Improvement](#room-for-improvement)
-* [Acknowledgements](#acknowledgements)
-* [Contact](#contact)
-<!-- * [License](#license) -->
+## Spis Treści
+* [Ogólne informacje](#ogólne-informacje)
+* [Zrzut ekranu](#zrzut-ekranu)
+* [Status projektu](#status-projektu)
+* [Inspiracja](#inspiracja)
+* [Autor](#autor)
 
+## Ogólne informacje
+- Prosta gra w "Kółko i krzyżyk"
+- Świetny sposób na zabicie czasu dla dwóch osób!
 
-## General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+## Zrzut ekranu
+![image](https://github.com/user-attachments/assets/bfde719a-e193-4036-aeeb-613a62d64d06)
 
+## Status projektu
+Projekt jest gotowy do oddania i oczekuje na ocenę, w każdym momencie są możliwe modyfikację, jeżeli są one konieczne.
 
-## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+## Inspiracja
+- Ten projekt był zainpirowany [tym filmem](https://www.youtube.com/watch?v=nn2V05V2oRE).
 
-
-## Features
-List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
-
-
-## Screenshots
-![Example screenshot](./img/screenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
-
-
-## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
-
-
-## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
-
-`write-your-code-here`
-
-
-## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
-
-
-## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
-
-Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
-
-To do:
-- Feature to be added 1
-- Feature to be added 2
-
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
-
-
-## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+## Autor
+Autorem Projektu jest Michał Kwiatkowski.
